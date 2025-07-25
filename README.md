@@ -12,16 +12,19 @@ Este proyecto tiene como objetivo ayudar al Sr. Juan a tomar una decisión estra
 
 ## 🗂️ Estructura del Proyecto
 
+```
+Alura-Store-Analysis/
 │
-├── BD/ # Base de Datos
-│ ├── tienda_1.csv # Datos de ventas Tienda 1
-│ ├── tienda_2.csv # Datos de ventas Tienda 2
-│ ├── tienda_3.csv # Datos de ventas Tienda 3
-│ └── tienda_4.csv # Datos de ventas Tienda 4
+├── BD/                         # Base de Datos
+│   ├── tienda_1.csv            # Datos de ventas Tienda 1
+│   ├── tienda_2.csv            # Datos de ventas Tienda 2
+│   ├── tienda_3.csv            # Datos de ventas Tienda 3
+│   └── tienda_4.csv            # Datos de ventas Tienda 4
 │
-├── AluraStoreLatam.ipynb # Notebook principal con análisis
-├── AluraStoreConclusion # Documento con las conclusiones del challenge
-└── README.md # Documentación del proyecto
+├── AluraStoreLatam.ipynb       # Notebook principal con análisis
+├── AluraStoreConclusion        # Documento con las conclusiones del challenge
+└── README.md                   # Documentación del proyecto
+``` 
 
 
 ## Descripción de Archivos
